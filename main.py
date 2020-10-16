@@ -8,4 +8,5 @@ exec(command)
 ​
 print(secret)
 ​
+
 assert 2 + 2 == 5, "Wrong!"
